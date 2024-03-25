@@ -22,44 +22,45 @@ Multiple Authentication in Laravel 11 | Multi Role Auth In Laravel
 User interface snap shots for Laravel 11 application
 
 
-![alt text](image.png)
+![image](https://github.com/1998Hirushamalith/Multi-Role-Auth-In-Laravel-11/assets/130145482/f0c8926f-58af-46b4-a975-570e37a41232)
 
 
 
 Test user dashboard
 
 
+![image-1](https://github.com/1998Hirushamalith/Multi-Role-Auth-In-Laravel-11/assets/130145482/594152a1-2683-4ead-976d-d42d5e8f6633)
 
-![alt text](image-1.png)
 
+![image-4](https://github.com/1998Hirushamalith/Multi-Role-Auth-In-Laravel-11/assets/130145482/6c9ff224-914a-4267-b990-83fe4124371b)
 
 
 Test admin registration
 
 
-
-![alt text](image-5.png)
+![image-2](https://github.com/1998Hirushamalith/Multi-Role-Auth-In-Laravel-11/assets/130145482/8fdae4f0-002d-4e8d-9bf6-77bcbee7546d)
 
 
 
 Test admin login
 
 
+![image](https://github.com/1998Hirushamalith/Multi-Role-Auth-In-Laravel-11/assets/130145482/c9a17e34-2864-4e60-844d-ed7a91ea7913)
 
-![alt text](image-2.png)
 
 
 Test user login
 
 
+![image-3](https://github.com/1998Hirushamalith/Multi-Role-Auth-In-Laravel-11/assets/130145482/e3bccb46-3d22-4da3-a18e-1341f6384a49)
 
-![alt text](image-3.png)
 
 
 Test admin user interface
 
 
-![alt text](image-4.png)
+![image](https://github.com/1998Hirushamalith/Multi-Role-Auth-In-Laravel-11/assets/130145482/f1b06782-d941-4b1e-8b81-d073c3d4f0de)
+
 
 
 
