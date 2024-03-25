@@ -32,8 +32,6 @@ Test user dashboard
 ![image-1](https://github.com/1998Hirushamalith/Multi-Role-Auth-In-Laravel-11/assets/130145482/594152a1-2683-4ead-976d-d42d5e8f6633)
 
 
-![image-4](https://github.com/1998Hirushamalith/Multi-Role-Auth-In-Laravel-11/assets/130145482/6c9ff224-914a-4267-b990-83fe4124371b)
-
 
 Test admin registration
 
